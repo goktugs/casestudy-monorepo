@@ -1,0 +1,60 @@
+[
+  { "id": 1, "airport_name": "(ADA) Adana Şakirpaşa Havalimanı Adana" },
+  { "id": 2, "airport_name": "(ADB) İzmir Adnan Menderes Havalimanı İzmir" },
+  { "id": 3, "airport_name": "(AYT) Antalya Havalimanı Antalya" },
+  {
+    "id": 4,
+    "airport_name": "(ATL) Hartsfield-Jackson Atlanta Uluslararası Havalimanı Atlanta"
+  },
+  { "id": 5, "airport_name": "(BJV) Bodrum Milas-Bodrum Havalimanı Bodrum" },
+  { "id": 6, "airport_name": "(DLM) Dalaman Havalimanı Dalaman" },
+  { "id": 7, "airport_name": "(ESB) Ankara Esenboğa Havalimanı Ankara" },
+  { "id": 8, "airport_name": "(FRA) Frankfurt Havalimanı Frankfurt" },
+  { "id": 9, "airport_name": "(GZT) Gaziantep Havalimanı Gaziantep" },
+  {
+    "id": 10,
+    "airport_name": "(JFK) John F. Kennedy Uluslararası Havalimanı New York"
+  },
+  {
+    "id": 11,
+    "airport_name": "(LAX) Los Angeles Uluslararası Havalimanı Los Angeles"
+  },
+  { "id": 12, "airport_name": "(LON) Londra Heathrow Havalimanı Londra" },
+  { "id": 13, "airport_name": "(MAD) Madrid Barajas Havalimanı Madrid" },
+  {
+    "id": 14,
+    "airport_name": "(ORD) Chicago O'Hare Uluslararası Havalimanı Chicago"
+  },
+  {
+    "id": 15,
+    "airport_name": "(ROM) Roma Fiumicino Uluslararası Havalimanı Roma"
+  },
+  {
+    "id": 16,
+    "airport_name": "(SFO) San Francisco Uluslararası Havalimanı San Francisco"
+  },
+  { "id": 17, "airport_name": "(STO) Stockholm Arlanda Havalimanı Stockholm" },
+  { "id": 18, "airport_name": "(TZX) Trabzon Havalimanı Trabzon" },
+  { "id": 19, "airport_name": "(YEŞ) Bursa Yenişehir Havalimanı Bursa" },
+  { "id": 20, "airport_name": "(ATH) Atina Uluslararası Havalimanı Atina" },
+  { "id": 21, "airport_name": "(BER) Berlin Brandenburg Havalimanı Berlin" },
+  { "id": 22, "airport_name": "(IST) İstanbul Havalimanı İstanbul" },
+  { "id": 23, "airport_name": "(HEL) Helsinki-Vantaa Havalimanı Helsinki" },
+  { "id": 24, "airport_name": "(VIE) Viyana Uluslararası Havalimanı Viyana" },
+  {
+    "id": 25,
+    "airport_name": "(SAW) Sabiha Gökçen Havalimanı İstanbul"
+  },
+  {
+    "id": 26,
+    "airport_name": "(AMS) Amsterdam Schiphol Havalimanı Amsterdam"
+  },
+  {
+    "id": 27,
+    "airport_name": "(DFW) Dallas/Fort Worth Uluslararası Havalimanı Dallas"
+  },
+  {
+    "id": 28,
+    "airport_name": "(ISL) İstanbul Atatürk Havalimanı İstanbul"
+  }
+]
